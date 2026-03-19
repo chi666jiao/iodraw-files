@@ -151,7 +151,7 @@
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-88" value="🔍 必须过 GATE-2 风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-86">
           <mxGeometry x="117.3913043478261" y="169.22266139657444" width="333.72670807453414" height="49.06455862977602" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-89" value="✅ 必须过 GATE-3 执行证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-86">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-89" value="✅ 必须过 GATE-3 执行证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-86">
           <mxGeometry x="72.11180124223603" y="293.3860342555995" width="422.60869565217394" height="49.06455862977602" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-90" value="❌ 先出结论后补依据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-86">
