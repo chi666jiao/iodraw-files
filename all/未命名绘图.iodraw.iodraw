@@ -56,7 +56,7 @@
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-39" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="155.96273291925468" y="46.06060606060606" width="254.90683229813666" height="49.06455862977602" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-40" value="🔍 必须过 GATE-2 风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-40" value="🔍 必须过 GATE-2 风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="117.3913043478261" y="169.22266139657444" width="333.72670807453414" height="49.06455862977602" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-41" value="📄 可不跑或弱化 mvn 证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
