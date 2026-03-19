@@ -50,7 +50,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-38" value="🌪️ 无 GUARDS（经验驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-38" value="✅ 有 GUARDS（协议驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="540" height="760" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-39" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
@@ -142,7 +142,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-86" value="🌪️ 无 GUARDS（经验驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-86" value="✅ 有 GUARDS（协议驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="1250" width="540" height="760" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-87" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-86">
@@ -188,7 +188,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-99" value="🌪️ 无 GUARDS（经验驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-99" value="✅ 有 GUARDS（协议驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1250" width="540" height="760" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-100" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-99">
