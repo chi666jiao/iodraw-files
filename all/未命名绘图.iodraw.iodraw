@@ -188,6 +188,52 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-99" value="🌪️ 无 GUARDS（经验驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1250" width="540" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-100" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-99">
+          <mxGeometry x="155.96273291925468" y="46.06060606060606" width="254.90683229813666" height="49.06455862977602" as="geometry" />
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-101" value="🔍 必须过 GATE-2 风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-99">
+          <mxGeometry x="117.3913043478261" y="169.22266139657444" width="333.72670807453414" height="49.06455862977602" as="geometry" />
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-102" value="✅ 必须过 GATE-3 执行证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-99">
+          <mxGeometry x="72.11180124223603" y="293.3860342555995" width="422.60869565217394" height="49.06455862977602" as="geometry" />
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-103" value="📊 必须过 GATE-4 质量评分" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-99">
+          <mxGeometry x="102.29813664596274" y="416.5480895915679" width="362.23602484472053" height="49.06455862977602" as="geometry" />
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-104" value="🌀 修复无状态锚点" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-99">
+          <mxGeometry x="119.06832298136646" y="540.7114624505929" width="327.01863354037266" height="49.06455862977602" as="geometry" />
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-105" value="🔄 重复犯错，报告不可审计" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-99">
+          <mxGeometry x="85.527950310559" y="664.874835309618" width="395.77639751552795" height="66.08695652173914" as="geometry" />
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-99" source="83jK6oNgi6jXGa-9ZGvJ-100" target="83jK6oNgi6jXGa-9ZGvJ-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-99" source="83jK6oNgi6jXGa-9ZGvJ-101" target="83jK6oNgi6jXGa-9ZGvJ-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-99" source="83jK6oNgi6jXGa-9ZGvJ-102" target="83jK6oNgi6jXGa-9ZGvJ-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-99" source="83jK6oNgi6jXGa-9ZGvJ-103" target="83jK6oNgi6jXGa-9ZGvJ-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-99" source="83jK6oNgi6jXGa-9ZGvJ-104" target="83jK6oNgi6jXGa-9ZGvJ-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
