@@ -252,7 +252,7 @@
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-116" value="📌 修复先过 GATE-5 回写状态" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-111">
           <mxGeometry x="119.06832298136646" y="540.7114624505929" width="327.01863354037266" height="49.06455862977602" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-117" value="✨ 结果可追溯、可复现、可评审" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-111">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-117" value="✨ 结果可追溯、可复现、可评审" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-111">
           <mxGeometry x="85.527950310559" y="664.874835309618" width="395.77639751552795" height="66.08695652173914" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-111" source="83jK6oNgi6jXGa-9ZGvJ-112" target="83jK6oNgi6jXGa-9ZGvJ-113">
