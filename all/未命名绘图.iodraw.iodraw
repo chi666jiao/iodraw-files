@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-26" value="✅ 有 GUARDS（协议驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="430" width="640" height="750" as="geometry" />
+          <mxGeometry x="1670" y="440" width="640" height="750" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-27" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
           <mxGeometry x="188.12121212121212" y="43.39622641509434" width="294.7878787878788" height="46.22641509433962" as="geometry" />
