@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 SLBrowser/9.0.7.12231 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="yBb-zhKb6uTMw1FfTNMx">
-    <mxGraphModel dx="2570" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1743" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-26" value="✅ 有 GUARDS（协议驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="420" width="640" height="750" as="geometry" />
+          <mxGeometry x="1060" y="419" width="640" height="750" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-27" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
           <mxGeometry x="188.12121212121212" y="43.39622641509434" width="294.7878787878788" height="46.22641509433962" as="geometry" />
@@ -51,25 +51,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-38" value="🌪️ 无 GUARDS（经验驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="420" width="322" height="759" as="geometry" />
+          <mxGeometry x="400" y="420" width="540" height="760" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-39" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
-          <mxGeometry x="93" y="46" width="152" height="49" as="geometry" />
+          <mxGeometry x="155.96273291925468" y="46.06060606060606" width="254.90683229813666" height="49.06455862977602" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-40" value="⚠️ 可跳过风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
-          <mxGeometry x="70" y="169" width="199" height="49" as="geometry" />
+          <mxGeometry x="117.3913043478261" y="169.22266139657444" width="333.72670807453414" height="49.06455862977602" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-41" value="📄 可不跑或弱化 mvn 证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
-          <mxGeometry x="43" y="293" width="252" height="49" as="geometry" />
+          <mxGeometry x="72.11180124223603" y="293.3860342555995" width="422.60869565217394" height="49.06455862977602" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-42" value="❌ 先出结论后补依据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
-          <mxGeometry x="61" y="416" width="216" height="49" as="geometry" />
+          <mxGeometry x="102.29813664596274" y="416.5480895915679" width="362.23602484472053" height="49.06455862977602" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-43" value="🌀 修复无状态锚点" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
-          <mxGeometry x="71" y="540" width="195" height="49" as="geometry" />
+          <mxGeometry x="119.06832298136646" y="540.7114624505929" width="327.01863354037266" height="49.06455862977602" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-44" value="🔄 重复犯错，报告不可审计" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
-          <mxGeometry x="51" y="664" width="236" height="66" as="geometry" />
+          <mxGeometry x="85.527950310559" y="664.874835309618" width="395.77639751552795" height="66.08695652173914" as="geometry" />
         </mxCell>
         <mxCell id="83jK6oNgi6jXGa-9ZGvJ-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-39" target="83jK6oNgi6jXGa-9ZGvJ-40">
           <mxGeometry relative="1" as="geometry">
