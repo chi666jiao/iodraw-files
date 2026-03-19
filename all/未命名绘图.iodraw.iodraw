@@ -1,97 +1,97 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 SLBrowser/9.0.7.12231 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="yBb-zhKb6uTMw1FfTNMx">
-    <mxGraphModel dx="1435" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2262" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-26" value="✅ 有 GUARDS（协议驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="420" width="330" height="795" as="geometry" />
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-26" value="✅ 有 GUARDS（协议驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="420" width="640" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-27" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
-          <mxGeometry x="97" y="46" width="152" height="49" as="geometry" />
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-27" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
+          <mxGeometry x="188.12121212121212" y="43.39622641509434" width="294.7878787878788" height="46.22641509433962" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-28" value="🔍 必须过 GATE-2 风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
-          <mxGeometry x="43" y="169" width="259" height="49" as="geometry" />
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-28" value="🔍 必须过 GATE-2 风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
+          <mxGeometry x="83.39393939393939" y="159.43396226415095" width="502.3030303030303" height="46.22641509433962" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-29" value="✅ 必须过 GATE-3 执行证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
-          <mxGeometry x="43" y="293" width="260" height="49" as="geometry" />
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-29" value="✅ 必须过 GATE-3 执行证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
+          <mxGeometry x="83.39393939393939" y="276.41509433962267" width="504.24242424242425" height="46.22641509433962" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-30" value="📊 必须过 GATE-4 质量评分" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
-          <mxGeometry x="44" y="416" width="259" height="49" as="geometry" />
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-30" value="📊 必须过 GATE-4 质量评分" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
+          <mxGeometry x="85.33333333333334" y="392.45283018867923" width="502.3030303030303" height="46.22641509433962" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-31" value="📌 修复先过 GATE-5 回写状态" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
-          <mxGeometry x="70" y="540" width="206" height="66" as="geometry" />
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-31" value="📌 修复先过 GATE-5 回写状态" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
+          <mxGeometry x="135.75757575757575" y="509.433962264151" width="399.5151515151515" height="62.264150943396224" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-32" value="✨ 结果可追溯、可复现、可评审" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
-          <mxGeometry x="46" y="681" width="254" height="84" as="geometry" />
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-32" value="✨ 结果可追溯、可复现、可评审" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-26">
+          <mxGeometry x="89.21212121212122" y="642.4528301886793" width="492.6060606060606" height="79.24528301886792" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-27" target="83jK6oNgi6jXGa-9ZGvJ-28">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-27" target="83jK6oNgi6jXGa-9ZGvJ-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-28" target="83jK6oNgi6jXGa-9ZGvJ-29">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-28" target="83jK6oNgi6jXGa-9ZGvJ-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-29" target="83jK6oNgi6jXGa-9ZGvJ-30">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-29" target="83jK6oNgi6jXGa-9ZGvJ-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-30" target="83jK6oNgi6jXGa-9ZGvJ-31">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-30" target="83jK6oNgi6jXGa-9ZGvJ-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-31" target="83jK6oNgi6jXGa-9ZGvJ-32">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-26" source="83jK6oNgi6jXGa-9ZGvJ-31" target="83jK6oNgi6jXGa-9ZGvJ-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-38" value="🌪️ 无 GUARDS（经验驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-38" value="🌪️ 无 GUARDS（经验驱动）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="438" width="322" height="759" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-39" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-39" value="🔄 生成测试" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="93" y="46" width="152" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-40" value="⚠️ 可跳过风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-40" value="⚠️ 可跳过风险扫描" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="70" y="169" width="199" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-41" value="📄 可不跑或弱化 mvn 证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-41" value="📄 可不跑或弱化 mvn 证据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="43" y="293" width="252" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-42" value="❌ 先出结论后补依据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-42" value="❌ 先出结论后补依据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="61" y="416" width="216" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-43" value="🌀 修复无状态锚点" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-43" value="🌀 修复无状态锚点" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="71" y="540" width="195" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-44" value="🔄 重复犯错，报告不可审计" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-44" value="🔄 重复犯错，报告不可审计" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="83jK6oNgi6jXGa-9ZGvJ-38">
           <mxGeometry x="51" y="664" width="236" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-39" target="83jK6oNgi6jXGa-9ZGvJ-40">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-39" target="83jK6oNgi6jXGa-9ZGvJ-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-40" target="83jK6oNgi6jXGa-9ZGvJ-41">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-40" target="83jK6oNgi6jXGa-9ZGvJ-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-41" target="83jK6oNgi6jXGa-9ZGvJ-42">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-41" target="83jK6oNgi6jXGa-9ZGvJ-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-42" target="83jK6oNgi6jXGa-9ZGvJ-43">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-42" target="83jK6oNgi6jXGa-9ZGvJ-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-43" target="83jK6oNgi6jXGa-9ZGvJ-44">
+        <mxCell id="83jK6oNgi6jXGa-9ZGvJ-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" edge="1" parent="83jK6oNgi6jXGa-9ZGvJ-38" source="83jK6oNgi6jXGa-9ZGvJ-43" target="83jK6oNgi6jXGa-9ZGvJ-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
